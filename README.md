@@ -15,16 +15,17 @@
 
 ## 차단하는 사이트 목록 : 10개
 
-- `qastack.kr`
-- `programqa.com`
 - `askdev.io`
-- `it-swarm.*`
-- `i-harness.com`
+- `cnpnote.tistory.com`
 - `code-examples.net`
-- `stackoverrun.com`
 - `coder.work`
 - `example-code.com`
-- `cnpnote.tistory.com`
+- `i-harness.com`
+- `it-swarm.*`
+- `programqa.com`
+- `qastack.kr`
+- `stackovernet.com`
+- `stackoverrun.com`
 
 ## License
 

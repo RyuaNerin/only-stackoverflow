@@ -4,6 +4,6 @@
 ! Homepage: https://github.com/RyuaNerin/only-stackoverflow
 ! License: https://github.com/RyuaNerin/only-stackoverflow#license
 ! Expires: 4 days
-! Version: 2020062302
+! Version: 2020062303
 
-google.com#?#div[role="main"] > div#search div[data-async-context] > div > div[data-ved]:contains(/qastack\.kr|programqa\.com|askdev\.io|it-swarm\.*|i-harness\.com|code-examples\.net|stackoverrun\.com|coder\.work|example-code\.com|cnpnote\.tistory\.com/)
+google.com#?#div[role="main"] > div#search div[data-async-context] > div > div[data-ved]:contains(/qastack\.kr|programqa\.com|askdev\.io|it-swarm\.*|i-harness\.com|code-examples\.net|stackoverrun\.com|coder\.work|example-code\.com|cnpnote\.tistory\.com|stackovernet\.com/)
