@@ -9,6 +9,7 @@
 - **테스트됨**
 	- Adguard
 	- uBlock Origin
+	- Personal Blocklist(not by Google)
 
 - 테스트 안됨
 	- Adblock Plus
