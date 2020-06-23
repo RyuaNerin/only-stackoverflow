@@ -6,7 +6,7 @@
 
 ## [추가하기](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
 
-- 테스트됨
+- **테스트됨**
 	- Adguard
 	- uBlock Origin
 
@@ -15,6 +15,7 @@
 
 ## 차단하는 사이트 목록
 
+- `askdev.info`
 - `askdev.io`
 - `cnpnote.tistory.com`
 - `code-examples.net`
@@ -26,6 +27,7 @@
 - `qastack.kr`
 - `stackovernet.com`
 - `stackoverrun.com`
+- `ubuntugeeks.com`
 
 ## License
 
