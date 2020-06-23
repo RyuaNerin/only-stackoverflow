@@ -13,7 +13,7 @@
 - 테스트 안됨
 	- Adblock Plus
 
-## 차단하는 사이트 목록 : 10개
+## 차단하는 사이트 목록
 
 - `askdev.io`
 - `cnpnote.tistory.com`
