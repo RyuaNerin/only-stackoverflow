@@ -4,15 +4,14 @@
 
 - 이슈/풀리퀘 매우 환영
 
-## 설치하기
+## [추가하기](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
 
-### Adguard [추가](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
 - 테스트됨
+	- Adguard
+	- uBlock Origin
 
-### Adblock Plus [추가](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
-
-### uBlock Origin [추가](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
-- **테스트 안해봄**
+- 테스트 안됨
+	- Adblock Plus
 
 ## 차단하는 사이트 목록 : 10개
 
