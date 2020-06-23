@@ -1,5 +1,5 @@
 ! Title: only-stackoverflow
-! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
+! Description: 구글 검색에서 스택오버플로 사이트 긁어다가 번역기 돌려놓은 이상한 사이트 숨기기
 ! Homepage: https://github.com/RyuaNerin/only-stackoverflow
 ! License: https://github.com/RyuaNerin/only-stackoverflow#license
 ! Expires: 4 days
