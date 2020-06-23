@@ -1,0 +1,8 @@
+! Title: only-stackoverflow
+! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
+! Homepage: https://github.com/RyuaNerin/only-stackoverflow
+! License: https://github.com/RyuaNerin/only-stackoverflow#license
+! Expires: 4 days
+! Version: 20200623
+
+google.com#?#div[role="main"] > div#search div[data-async-context] > div > div[data-ved]:contains(/qastack\.kr|programqa\.com|askdev\.io|it-swarm\.*|i-harness\.com|code-examples\.net|stackoverrun\.com|coder\.work|example-code\.com|cnpnote\.tistory\.com/)
