@@ -15,7 +15,7 @@ with open("only-stackoverflow.txt", "w", encoding="utf-8") as _fw:
     _fw.write(
         tmpl.format(
             version=datetime.datetime.now().strftime("%Y.%m.%d.%H.%M"),
-            regex="|".join([re.escape(host.strip("\r\n")) for host in hosts]),
+            regex="|".join([re.escape(host.strip("\r\n")) for host in hosts]).strip('|'),
         )
     )
 
