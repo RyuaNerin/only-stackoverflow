@@ -7,28 +7,14 @@
 ## [추가하기](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
 
 - **테스트됨**
-	- Adguard
-	- uBlock Origin
-	- Personal Blocklist(not by Google)
+    - Adguard
+    - uBlock Origin
+    - Personal Blocklist(not by Google)
 
 - 테스트 안됨
-	- Adblock Plus
+    - Adblock Plus
 
-## 차단하는 사이트 목록
-
-- `askdev.info`
-- `askdev.io`
-- `cnpnote.tistory.com`
-- `code-examples.net`
-- `coder.work`
-- `example-code.com`
-- `i-harness.com`
-- `it-swarm.*`
-- `programqa.com`
-- `qastack.kr`
-- `stackovernet.com`
-- `stackoverrun.com`
-- `ubuntugeeks.com`
+## [차단하는 사이트 목록](hosts.txt)
 
 ## License
 
