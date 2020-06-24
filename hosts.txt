@@ -1,0 +1,13 @@
+askdev.info
+askdev.io
+cnpnote.tistory.com
+code-examples.net
+coder.work
+example-code.com
+i-harness.com
+it-swarm.*
+programqa.com
+qastack.kr
+stackovernet.com
+stackoverrun.com
+ubuntugeeks.com
