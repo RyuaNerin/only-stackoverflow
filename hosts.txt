@@ -8,6 +8,8 @@ i-harness.com
 it-swarm.*
 programqa.com
 qastack.kr
+stackanswers.net
+stackoom.com
 stackovernet.com
 stackoverrun.com
 ubuntugeeks.com
