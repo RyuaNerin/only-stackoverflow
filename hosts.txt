@@ -13,3 +13,5 @@ stackoom.com
 stackovernet.com
 stackoverrun.com
 ubuntugeeks.com
+python2.net
+answeright.com
