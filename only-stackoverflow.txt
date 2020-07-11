@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/RyuaNerin/only-stackoverflow
 ! License: https://github.com/RyuaNerin/only-stackoverflow#license
 ! Expires: 4 days
-! Version: 2020.07.10.16.56
+! Version: 2020.07.11.18.39
 
-google.com#?#div[role="main"] > div#search div[data-async-context] > div > div[data-ved]:contains(/answeright\.com|ask\.xiaolee\.net|askdev\.info|askdev\.io|askvoprosy\.com|c10106\.tistory\.com|cnpnote\.tistory\.com|code\-examples\.net|coder\.work|codingkit\.com|develop\-bugs\.com|example\-code\.com|i\-harness\.com|it\-swarm\..*|programqa\.com|python2\.net|qastack\.kr|src\-bin\.com|stackanswers\.net|stackoom\.com|stackovernet\.com|stackoverrun\.com|ubuntugeeks\.com/)
-duckduckgo.com#?#div.result:contains(/answeright\.com|ask\.xiaolee\.net|askdev\.info|askdev\.io|askvoprosy\.com|c10106\.tistory\.com|cnpnote\.tistory\.com|code\-examples\.net|coder\.work|codingkit\.com|develop\-bugs\.com|example\-code\.com|i\-harness\.com|it\-swarm\..*|programqa\.com|python2\.net|qastack\.kr|src\-bin\.com|stackanswers\.net|stackoom\.com|stackovernet\.com|stackoverrun\.com|ubuntugeeks\.com/)
+google.com#?#div[role="main"] > div#search div[data-async-context] > div > div[data-ved]:contains(/answeright\.com|ask\.roboflow\.ai|ask\.xiaolee\.net|askdev\.info|askdev\.io|askvoprosy\.com|c10106\.tistory\.com|cnpnote\.tistory\.com|code\-examples\.net|coder\.work|codingkit\.com|develop\-bugs\.com|example\-code\.com|i\-harness\.com|it\-swarm\..*|programqa\.com|python2\.net|qastack\.kr|src\-bin\.com|stackanswers\.net|stackoom\.com|stackovernet\.com|stackoverrun\.com|ubuntugeeks\.com/)
+duckduckgo.com#?#div.result:contains(/answeright\.com|ask\.roboflow\.ai|ask\.xiaolee\.net|askdev\.info|askdev\.io|askvoprosy\.com|c10106\.tistory\.com|cnpnote\.tistory\.com|code\-examples\.net|coder\.work|codingkit\.com|develop\-bugs\.com|example\-code\.com|i\-harness\.com|it\-swarm\..*|programqa\.com|python2\.net|qastack\.kr|src\-bin\.com|stackanswers\.net|stackoom\.com|stackovernet\.com|stackoverrun\.com|ubuntugeeks\.com/)
