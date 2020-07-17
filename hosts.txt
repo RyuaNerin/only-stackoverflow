@@ -1,3 +1,4 @@
+android.developreference.com
 answeright.com
 ask.roboflow.ai
 ask.xiaolee.net
@@ -12,7 +13,9 @@ codingkit.com
 develop-bugs.com
 example-code.com
 i-harness.com
+it-man.tistory.com
 it-swarm.*
+manongdao.com
 programqa.com
 python2.net
 qastack.kr
@@ -21,4 +24,5 @@ stackanswers.net
 stackoom.com
 stackovernet.com
 stackoverrun.com
+thetopsites.net
 ubuntugeeks.com
