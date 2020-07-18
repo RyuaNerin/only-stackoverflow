@@ -14,6 +14,7 @@ develop-bugs.com
 example-code.com
 i-harness.com
 it-man.tistory.com
+it-reply.net
 it-swarm.*
 manongdao.com
 programqa.com
