@@ -3,7 +3,7 @@ name: Build rules
 on:
   push:
     branches:
-      - dev
+      - master
 
 jobs:
   build:
