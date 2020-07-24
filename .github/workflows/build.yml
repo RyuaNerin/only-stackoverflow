@@ -22,14 +22,14 @@ jobs:
 
       - name: Build
         run: |
-          python3 build.py
-
-      - name: Commit and push
-        run: |
-          git add only-stackoverflow.txt
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git commit -m "Build rules" -a
+          readonly local is_changed=$(git diff --name-only HEAD HEAD~1 | grep -P "^build\.py|hosts\.txt|only\-stackoverflow\.tmpl$" -c)
+          if [[ $is_changed -ne 0 ]]; then
+            python3 build.py
+            git add only-stackoverflow.txt
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git commit -m "Build rules" -a
+          fi
 
       - name: Push changes
         uses: ad-m/github-push-action@master
