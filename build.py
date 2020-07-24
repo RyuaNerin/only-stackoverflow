@@ -3,8 +3,9 @@
 
 import datetime
 import fnmatch
-import io
 import re
+
+KST = datetime.timezone(datetime.timedelta(hours=9))
 
 with open("hosts.txt", "r", encoding="utf-8") as _fr:
     hosts = _fr.readlines()
@@ -24,7 +25,7 @@ with open("only-stackoverflow.txt", "w", encoding="utf-8") as _fw:
 
     _fw.write(
         tmpl.format(
-            version=datetime.datetime.now().strftime("%Y.%m.%d.%H.%M"),
+            version=datetime.datetime.now(KST).strftime("%Y.%m.%d.%H.%M"),
             regex="|".join(regex_list).strip('|'),
         )
     )
