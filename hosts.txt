@@ -18,6 +18,7 @@ it-man.tistory.com
 it-reply.net
 it-swarm-ko.*
 it-swarm.*
+it-swarm.dev
 manongdao.com
 programqa.com
 python2.net
