@@ -1,9 +1,9 @@
 answeright.com
+ask.roboflow.ai
+ask.xiaolee.net
 askdev.info
 askdev.io
-ask.roboflow.ai
 askvoprosy.com
-ask.xiaolee.net
 c10106.tistory.com
 cnpnote.tistory.com
 code-examples.net
@@ -16,12 +16,12 @@ developreference.com
 example-code.com
 generacodice.it
 i-harness.com
-it1352.com
 it-man.tistory.com
 it-reply.net
+it-swarm-ko.*
 it-swarm.*
 it-swarm.dev
-it-swarm-ko.*
+it1352.com
 manongdao.com
 programqa.com
 python2.net
