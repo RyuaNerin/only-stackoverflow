@@ -8,7 +8,10 @@ import re
 KST = datetime.timezone(datetime.timedelta(hours=9))
 
 with open("hosts.txt", "r", encoding="utf-8") as _fr:
-    hosts = _fr.readlines()
+    hosts = sorted([x for x in _fr.readlines() if x is not None and len(x) > 0])
+
+with open("hosts.txt", "w", encoding="utf-8") as _fw:
+    _fw.writelines(hosts)
 
 with open("only-stackoverflow.tmpl", "r", encoding="utf-8") as _fr:
     tmpl = _fr.read()
