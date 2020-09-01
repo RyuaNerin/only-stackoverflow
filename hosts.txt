@@ -15,6 +15,7 @@ develop-bugs.com
 developreference.com
 example-code.com
 generacodice.it
+gotxt.net
 i-harness.com
 it-man.tistory.com
 it-reply.net
@@ -35,4 +36,3 @@ thetopsites.net
 ubuntugeeks.com
 uwenku.com
 wekeepcoding.com
-gotxt.net
