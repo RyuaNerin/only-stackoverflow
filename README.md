@@ -16,9 +16,11 @@
     - **Adguard**
     - **uBlock Origin**
     - **Personal Blocklist(not by Google)**
+    - **Adblock Plus**
+    - **AdBlock**
 
-- 테스트되지 않은 플러그인
-    - Adblock Plus
+- Adblock Plus, AdBlock 사용시 주의사항
+    - (Adblock Plus) "허용되는 광고"를 허용하거나 (AdBlock) "허용할만한 광고" 필터를 구독하면 google.com에서 모든 필터가 적용되지 않습니다. 이를 해제해야 합니다.
 
 ## [차단하는 사이트 목록](hosts.txt)
 
