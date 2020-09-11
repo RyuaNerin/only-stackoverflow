@@ -23,6 +23,7 @@ it-swarm-ko.*
 it-swarm.*
 it-swarm.dev
 it1352.com
+lottogame.tistory.com
 manongdao.com
 programqa.com
 python2.net
@@ -36,4 +37,3 @@ thetopsites.net
 ubuntugeeks.com
 uwenku.com
 wekeepcoding.com
-lottogame.tistory.com
