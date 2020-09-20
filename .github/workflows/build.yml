@@ -4,10 +4,15 @@ on:
   push:
     branches:
       - master
+    paths:
+      - 'build.py'
+      - 'hosts.txt'
+      - 'only-stackoverflow.tmpl'
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    if: github.repository == 'RyuaNerin/only-stackoverflow'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
@@ -21,15 +26,14 @@ jobs:
           python-version: 3.8
 
       - name: Build
+        run: python3 build.py
+          
+      - name: Commit
         run: |
-          readonly local is_changed=$(git diff --name-only HEAD HEAD~1 | grep -P "^build\.py|hosts\.txt|only\-stackoverflow\.tmpl$" -c)
-          if [[ $is_changed -ne 0 ]]; then
-            python3 build.py
-            git add only-stackoverflow.txt
-            git config --local user.email "action@github.com"
-            git config --local user.name "GitHub Action"
-            git commit -m "Build rules" -a
-          fi
+          git add only-stackoverflow.txt
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -m "Build rules" -a
 
       - name: Push changes
         uses: ad-m/github-push-action@master
