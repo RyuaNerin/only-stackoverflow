@@ -17,6 +17,7 @@ it-man.tistory.com
 it-reply.net
 it-swarm.*
 manongdao.com
+presmarymethuen.org
 programqa.com
 python2.net
 qastack.kr
