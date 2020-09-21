@@ -1,5 +1,7 @@
 # only-stackoverflow
 
+![banner](banner.png)
+
 - Hide stackoverflow copy sites(e.g. stackoverrun) with browser plugins from search results.
 
 - Currently supports [Google](https://www.google.com) and [DuckDuckGo](https://duckduckgo.com).

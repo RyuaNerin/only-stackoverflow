@@ -1,5 +1,7 @@
 # only-stackoverflow
 
+![banner](banner.png)
+
 - [README (english)](README-en.md)
 
 - 검색 결과에서 스택오버플로 사이트 긁어다가 번역기 돌려놓은 이상한 사이트들을 모조리 숨겨요
