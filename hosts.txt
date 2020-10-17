@@ -5,6 +5,7 @@ ask.xiaolee.net
 askdev.info
 askdev.io
 askvoprosy.com
+big-blog.tistory.com
 c0debot.com
 c10106.tistory.com
 cnpnote.tistory.com
@@ -49,4 +50,3 @@ uwenku.com
 voidcc.com
 w3bai.com
 wekeepcoding.com
-big-blog.tistory.com
