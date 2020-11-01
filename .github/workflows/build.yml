@@ -5,9 +5,8 @@ on:
     branches:
       - master
     paths:
-      - 'build.py'
+      - 'build.bash'
       - 'hosts.txt'
-      - 'only-stackoverflow.tmpl'
 
 jobs:
   build:
@@ -20,13 +19,8 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
 
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
-
       - name: Build
-        run: python3 build.py
+        run: bash build.bash
           
       - name: Commit
         run: |
