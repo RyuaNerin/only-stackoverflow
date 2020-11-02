@@ -5,6 +5,8 @@ NOW=`date -u +"%Y.%m.%d %H.%M.%S (UTC)"`
 HOST_LIST=`cat hosts.txt | sort -n`
 REGEX_LIST=()
 
+truncate hosts.txt -s 0
+
 while IFS= read -r line; do 
 	if [ -n "$line" ]; then
 		echo "$line" >> hosts.txt
