@@ -22,7 +22,7 @@ REGEX=$(join '|' ${REGEX_LIST[@]})
 
 ##################################################
 
-cat <<EOF >> only-stackoverflow.txt
+cat <<EOF > only-stackoverflow.txt
 [Adblock Plus 2.0]
 ! Title: only-stackoverflow
 ! Description: Hide copy of stackoverflow from google and duckduckgo search results. (e.g. stackoverrun)
