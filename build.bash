@@ -5,8 +5,6 @@ NOW=`date -u +"%Y.%m.%d %H.%M.%S (UTC)"`
 HOST_LIST=`cat hosts.txt | sort -n`
 REGEX_LIST=()
 
-truncate hosts.txt -s 0
-
 while IFS= read -r line; do 
 	if [ -n "$line" ]; then
 		echo "$line" >> hosts.txt
@@ -24,14 +22,16 @@ REGEX=$(join '|' ${REGEX_LIST[@]})
 
 ##################################################
 
-echo "[Adblock Plus 2.0]"                                                                                                > only-stackoverflow.txt
-echo "! Title: only-stackoverflow"                                                                                      >> only-stackoverflow.txt
-echo "! Description: Hide copy of stackoverflow from google and duckduckgo search results. (e.g. stackoverrun)"         >> only-stackoverflow.txt
-echo "! Homepage: https://github.com/RyuaNerin/only-stackoverflow"                                                      >> only-stackoverflow.txt
-echo "! License: https://github.com/RyuaNerin/only-stackoverflow#license"                                               >> only-stackoverflow.txt
-echo "! Expires: 1 days"                                                                                                >> only-stackoverflow.txt
-echo "! Version: ${NOW}"                                                                                                >> only-stackoverflow.txt
-echo ""                                                                                                                 >> only-stackoverflow.txt
-echo "google.com#?#div[role=\"main\"] div#search div[data-async-context] div[data-ved]:-abp-contains(/${REGEX}/)"       >> only-stackoverflow.txt
-echo "google.co.kr#?#div[role=\"main\"] div#search div[data-async-context] div[data-ved]:-abp-contains(/${REGEX}/)"     >> only-stackoverflow.txt
-echo "duckduckgo.com#?#div.result:-abp-contains(/${REGEX}/)"                                                            >> only-stackoverflow.txt
+cat <<EOF >> only-stackoverflow.txt
+[Adblock Plus 2.0]
+! Title: only-stackoverflow
+! Description: Hide copy of stackoverflow from google and duckduckgo search results. (e.g. stackoverrun)
+! Homepage: https://github.com/RyuaNerin/only-stackoverflow
+! License: https://github.com/RyuaNerin/only-stackoverflow#license
+! Expires: 1 days
+! Version: ${NOW}
+
+google.com#?#div[role=\"main\"] div#search div[data-async-context] div[data-ved]:-abp-contains(/${REGEX}/)
+google.co.kr#?#div[role=\"main\"] div#search div[data-async-context] div[data-ved]:-abp-contains(/${REGEX}/)
+duckduckgo.com#?#div.result:-abp-contains(/${REGEX}/)
+EOF
