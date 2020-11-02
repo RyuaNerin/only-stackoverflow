@@ -2,7 +2,7 @@
 
 NOW=`date -u +"%Y.%m.%d %H.%M.%S (UTC)"`
 
-HOST_LIST=`cat hosts.txt | sort -n`
+HOST_LIST=`cat hosts.txt | sort -n | uniq`
 REGEX_LIST=()
 
 truncate hosts.txt -s 0
