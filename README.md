@@ -9,10 +9,9 @@
 - [구글](https://google.co.kr)과 [덕덕고](https://duckduckgo.com/)를 지원해요.
 
 - 이슈/풀리퀘 매우 환영
-    - 아래의 3 파일만 수정해주세요. `only-stackoverflow.txt` 파일은 자동으로 생성됩니다.
-        - [`build.py`](build.py)
+    - 아래의 2 파일만 수정해주세요. `only-stackoverflow.txt` 파일은 자동으로 생성됩니다.
+        - [`build.bash`](build.bash)
         - [`hosts.txt`](hosts.txt)
-        - [`only-stackoverflow.tmpl`](only-stackoverflow.tmpl)
 
 ## [추가하기](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
 
