@@ -8,14 +8,14 @@ REGEX_LIST=()
 truncate hosts.txt -s 0
 
 while IFS= read -r line; do 
-	if [ -n "$line" ]; then
-		echo "$line" >> hosts.txt
+    if [ -n "$line" ]; then
+        echo "$line" >> hosts.txt
 
-		re=$(echo "$line" | sed 's/\./\\./g; s/\?/./g; s/\-/\\-/g; s/\*/.\*/g')
+        re=$(echo "$line" | sed 's/\./\\./g; s/\?/./g; s/\-/\\-/g; s/\*/.\*/g')
         echo $re
 
-		REGEX_LIST+=($re)
-	fi
+        REGEX_LIST+=($re)
+    fi
 done <<< "$HOST_LIST"
 
 function join { local IFS="$1"; shift; echo "$*"; }
