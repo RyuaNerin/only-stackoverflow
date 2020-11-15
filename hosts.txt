@@ -8,8 +8,7 @@ answer-id.com
 answeright.com
 ask.roboflow.ai
 ask.xiaolee.net
-askdev.info
-askdev.io
+askdev.*
 askvoprosy.com
 big-blog.tistory.com
 c0debot.com
@@ -33,7 +32,6 @@ it-man.tistory.com
 it-reply.net
 it-swarm-ko.*
 it-swarm.*
-it-swarm.dev
 it1352.com
 itboxs.tistory.com
 javaer101.com
@@ -49,8 +47,7 @@ radiobox.tistory.com
 src-bin.com
 stackanswers.net
 stackoom.com
-stackovernet.com
-stackovernet.xyz
+stackovernet.*
 stackoverrun.com
 svcministry.org
 thetopsites.net
