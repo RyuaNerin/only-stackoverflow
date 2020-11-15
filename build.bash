@@ -1,18 +1,30 @@
 #!/bin/bash
 
+on_err() {
+    ERROR_CODE=$?
+    echo "error ${ERROR_CODE}"
+    echo "the command executing at the time of the error was"
+    echo "${BASH_COMMAND}"
+    echo "on line ${BASH_LINENO[0]}"
+    exit ${ERROR_CODE}
+}
+trap on_err ERR
+
 NOW=`date -u +"%Y.%m.%d %H.%M.%S (UTC)"`
 
-HOST_LIST=`cat hosts.txt | sort -n | uniq`
+HOST_HEADER_LINES=$(grep -c '#.*' hosts.txt)
+HOST_HEADER=$(head -${HOST_HEADER_LINES} hosts.txt)
+HOST_LIST=$(tail -n +$((${HOST_HEADER_LINES}+1)) hosts.txt | sort -nf | uniq)
 REGEX_LIST=()
 
-truncate hosts.txt -s 0
+echo "${HOST_HEADER}" > hosts.txt
 
 while IFS= read -r line; do 
     if [ -n "$line" ]; then
+        line=${line,,}
         echo "$line" >> hosts.txt
 
         re=$(echo "$line" | sed 's/\./\\./g; s/\?/./g; s/\-/\\-/g; s/\*/.\*/g')
-        echo $re
 
         REGEX_LIST+=($re)
     fi
