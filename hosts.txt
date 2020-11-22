@@ -4,6 +4,7 @@
 # This file will be rearranged when build. so add the new host to the last line.
 # You can use wildcard characters(* and ?).
 ####################################################################################################
+alwaysemmyhope.com
 answer-id.com
 answeright.com
 ask.roboflow.ai
@@ -58,4 +59,3 @@ uwenku.com
 voidcc.com
 w3bai.com
 wekeepcoding.com
-alwaysemmyhope.com
