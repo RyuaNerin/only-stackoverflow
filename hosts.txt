@@ -12,6 +12,7 @@ ask.xiaolee.net
 askdev.*
 askvoprosy.com
 big-blog.tistory.com
+bugsdb.com
 c0debot.com
 c10106.tistory.com
 cnpnote.tistory.com
@@ -58,4 +59,5 @@ ubuntugeeks.com
 uwenku.com
 voidcc.com
 w3bai.com
+webdevdesigner.com
 wekeepcoding.com
