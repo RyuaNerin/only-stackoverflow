@@ -37,6 +37,7 @@ it-swarm-ko.*
 it-swarm.*
 it1352.com
 itboxs.tistory.com
+java2020.com
 javaer101.com
 lottogame.tistory.com
 manongdao.com
@@ -61,5 +62,4 @@ voidcc.com
 w3bai.com
 webdevdesigner.com
 wekeepcoding.com
-java2020.com
 xspdf.com
