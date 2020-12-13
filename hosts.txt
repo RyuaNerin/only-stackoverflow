@@ -41,6 +41,7 @@ java2020.com
 javaer101.com
 ko.ojit.com
 lottogame.tistory.com
+lottoking.tistory.com
 manongdao.com
 optionbox.tistory.com
 presmarymethuen.org
@@ -67,4 +68,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-lottoking.tistory.com
