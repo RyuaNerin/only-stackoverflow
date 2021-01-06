@@ -18,6 +18,7 @@ c10106.tistory.com
 cnpnote.tistory.com
 code-examples.net
 coder.work
+codestyle.tistory.com
 codingkit.com
 csharppedia.com
 daedab.com
@@ -68,5 +69,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-lottoking.tistory.com
-codestyle.tistory.com
