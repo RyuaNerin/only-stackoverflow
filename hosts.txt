@@ -62,6 +62,7 @@ stackoverrun.com
 svcministry.org
 thetopsites.net
 thinbug.com
+tr.coredump.biz
 ubuntugeeks.com
 uwenku.com
 voidcc.com
@@ -70,4 +71,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-tr.coredump.biz
