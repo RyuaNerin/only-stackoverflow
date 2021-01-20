@@ -50,6 +50,7 @@ procodes.tistory.com
 programqa.com
 programtip.tistory.com
 python2.net
+python5.com
 qastack.kr
 radiobox.tistory.com
 recalll.co
@@ -69,4 +70,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-python5.com
