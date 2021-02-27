@@ -13,6 +13,7 @@ askdev.*
 askvoprosy.com
 big-blog.tistory.com
 bugsdb.com
+buildwebhost.com
 c0debot.com
 c10106.tistory.com
 cnpnote.tistory.com
@@ -73,4 +74,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-buildwebhost.com
