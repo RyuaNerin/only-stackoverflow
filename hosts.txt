@@ -24,6 +24,7 @@ codingkit.com
 csharppedia.com
 daedab.com
 data-sc.net
+debugcn.com
 develop-bugs.com
 developreference.com
 e-learn.cn
@@ -75,4 +76,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-debugcn.com
