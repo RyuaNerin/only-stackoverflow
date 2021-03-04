@@ -37,6 +37,7 @@ gotxt.net
 hot-time.tistory.com
 i-harness.com
 iaxi.net
+idaemon.net
 inputbox.tistory.com
 it-man.tistory.com
 it-reply.net
@@ -80,4 +81,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-idaemon.net
