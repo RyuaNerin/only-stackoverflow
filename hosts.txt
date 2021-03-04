@@ -52,6 +52,7 @@ programqa.com
 programtip.tistory.com
 python2.net
 python5.com
+pythonq.com
 qastack.kr
 radiobox.tistory.com
 recalll.co
@@ -74,4 +75,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-pythonq.com
