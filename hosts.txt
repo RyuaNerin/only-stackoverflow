@@ -49,6 +49,7 @@ it1352.com
 itboxs.tistory.com
 java2020.com
 javaer101.com
+knews.vip
 ko.ojit.com
 lottogame.tistory.com
 lottoking.tistory.com
@@ -84,4 +85,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-knews.vip
