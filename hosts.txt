@@ -54,6 +54,7 @@ ko.ojit.com
 lottogame.tistory.com
 lottoking.tistory.com
 manongdao.com
+melkia.dev
 messiahlebanon.org
 optionbox.tistory.com
 presmarymethuen.org
@@ -85,4 +86,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-melkia.dev
