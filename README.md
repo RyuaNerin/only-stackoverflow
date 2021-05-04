@@ -13,7 +13,7 @@
         - [`build.bash`](build.bash)
         - [`hosts.txt`](hosts.txt)
 
-## [추가하기](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
+## [추가하기](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fgithub.com%2FRyuaNerin%2Fonly-stackoverflow%2Fraw%2Fmaster%2Fonly-stackoverflow.txt%26title%3Donly-stackoverflow)
 
 - **테스트된 플러그인**
     - **Adguard**
