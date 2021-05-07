@@ -24,7 +24,7 @@ while IFS= read -r line; do
         line=${line,,}
         echo "$line" >> hosts.txt
 
-        re=$(echo "$line" | sed 's/\./\\./g; s/\?/./g; s/\-/\\-/g; s/\*/\\S\*/g')
+        re=$(echo "$line" | sed 's/\./\\./g; s/\?/./g; s/\-/\\-/g; s/\*/\\S\*\?/g')
 
         REGEX_LIST+=($re)
     fi
