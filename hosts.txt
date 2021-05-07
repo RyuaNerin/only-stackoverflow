@@ -64,7 +64,7 @@ programtip.tistory.com
 python2.net
 python5.com
 pythonq.com
-qastack.kr
+qastack.*
 radiobox.tistory.com
 recalll.co
 src-bin.com
