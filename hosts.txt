@@ -41,6 +41,7 @@ hiengo.com
 hot-time.tistory.com
 i-harness.com
 iaxi.net
+ichi.pro
 idaemon.net
 inputbox.tistory.com
 it-man.tistory.com
@@ -89,4 +90,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-ichi.pro
