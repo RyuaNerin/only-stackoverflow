@@ -15,6 +15,7 @@ askvoprosy.com
 auespy.com
 big-blog.tistory.com
 bleepcoder.com
+brocante.dev
 bugsdb.com
 buildwebhost.com
 c0debot.com
@@ -92,4 +93,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-brocante.dev
