@@ -49,7 +49,7 @@ cat <<EOF > only-stackoverflow.txt
 ! License: https://github.com/RyuaNerin/only-stackoverflow#license
 ! Expires: 1 days
 ! Version: ${NOW}
-
+! 
 google.com#?#div[role="main"] div#search div[data-async-context] div[data-ved]:-abp-contains(/${REGEX}/)
 google.co.kr#?#div[role="main"] div#search div[data-async-context] div[data-ved]:-abp-contains(/${REGEX}/)
 duckduckgo.com#?#div.result:-abp-contains(/${REGEX}/)
