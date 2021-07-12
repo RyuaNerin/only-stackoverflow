@@ -37,11 +37,12 @@ REGEX=$(join '|' ${REGEX_LIST[@]})
 ##################################################
 
 cat <<EOF > only-stackoverflow.txt
+[Adblock Plus 2.0]
+! 
 ! Please do not copy this file, Subscribe this filter by clicking the "Subscribe only-stackoverflow filter" button in the middle of the link below.
 ! 이 파일을 복사하지 말고 아래 링크의 중간에 있는 "추가하기" 버튼을 클릭하여 추가해주세요.
 ! https://github.com/RyuaNerin/only-stackoverflow
-
-[Adblock Plus 2.0]
+! 
 ! Title: only-stackoverflow
 ! Description: Hide copy of stackoverflow from google and duckduckgo search results. (e.g. stackoverrun)
 ! Homepage: https://github.com/RyuaNerin/only-stackoverflow
