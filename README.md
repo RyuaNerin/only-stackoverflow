@@ -1,6 +1,6 @@
 # only-stackoverflow
 
-[![필터 구독하기](https://img.shields.io/badge/Subscribe%20Filter-Adblock%20Plus-brightgreen?logo=adblockplus)](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fgithub.com%2FRyuaNerin%2Fonly-stackoverflow%2Fraw%2Fmaster%2Fonly-stackoverflow.txt%26title%3Donly-stackoverflow)
+[![필터 구독하기](https://img.shields.io/badge/Subscribe%20Filter-Adblock%20Plus-brightgreen?logo=adblockplus)](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
 
 ![banner](banner.png)
 
