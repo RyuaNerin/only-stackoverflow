@@ -4,6 +4,7 @@
 # This file will be rearranged when build. so add the new host to the last line.
 # You can use wildcard characters(* and ?).
 ####################################################################################################
+*.wikiqube.net
 alwaysemmyhope.com
 answer-id.com
 answeright.com
@@ -95,4 +96,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-*.wikiqube.net
