@@ -80,6 +80,7 @@ runebook.dev
 src-bin.com
 stackanswers.net
 stackoom.com
+stackovergo.com
 stackovernet.*
 stackoverrun.com
 svcministry.org
@@ -96,4 +97,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-stackovergo.com
