@@ -48,6 +48,7 @@ ichi.pro
 idaemon.net
 inputbox.tistory.com
 isolution.pro
+it-gundan.com
 it-man.tistory.com
 it-reply.net
 it-swarm-ko.*
@@ -97,4 +98,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-it-gundan.com
