@@ -86,6 +86,7 @@ stackovergo.com
 stackovernet.*
 stackoverrun.com
 svcministry.org
+thefunky-monkey.com
 thetopsites.net
 thinbug.com
 topgoodhosting.com
@@ -99,4 +100,3 @@ webdevdesigner.com
 wekeepcoding.com
 xspdf.com
 202psj.tistory.com
-thefunky-monkey.com
