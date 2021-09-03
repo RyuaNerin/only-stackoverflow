@@ -4,6 +4,7 @@
 # This file will be rearranged when build. so add the new host to the last line.
 # You can use wildcard characters(* and ?).
 ####################################################################################################
+adoclib.com
 alwaysemmyhope.com
 answer-id.com
 answeright.com
@@ -100,4 +101,3 @@ wekeepcoding.com
 wikiqube.net
 xspdf.com
 202psj.tistory.com
-adoclib.com
