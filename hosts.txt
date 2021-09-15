@@ -74,6 +74,7 @@ presmarymethuen.org
 procodes.tistory.com
 programqa.com
 programtip.tistory.com
+py4u.net
 python2.net
 python5.com
 pythonq.com
@@ -103,4 +104,3 @@ wekeepcoding.com
 wikiqube.net
 xspdf.com
 202psj.tistory.com
-py4u.net
