@@ -80,6 +80,7 @@ python5.com
 pythonq.com
 qastack.*
 radiobox.tistory.com
+randomtip.tistory.com
 recalll.co
 runebook.dev
 src-bin.com
