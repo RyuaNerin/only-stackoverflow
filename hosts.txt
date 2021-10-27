@@ -30,6 +30,7 @@ codehunter.cc
 coder.work
 coderedirect.com
 codestyle.tistory.com
+codetd.com
 codetrash.com
 codingkit.com
 csharppedia.com
@@ -115,4 +116,3 @@ wepython.cc
 wikiqube.net
 xspdf.com
 202psj.tistory.com
-codetd.com
