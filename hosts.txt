@@ -29,6 +29,7 @@ code-examples.net
 codehunter.cc
 coder.work
 coderedirect.com
+coderoad.ru
 codestyle.tistory.com
 codetd.com
 codetrash.com
@@ -116,4 +117,3 @@ wepython.cc
 wikiqube.net
 xspdf.com
 202psj.tistory.com
-coderoad.ru
