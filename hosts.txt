@@ -4,8 +4,8 @@
 # This file will be rearranged when build. so add the new host to the last line.
 # You can use wildcard characters(* and ?).
 ####################################################################################################
-*.codebug.zone
-*.smnggeophysics.com
+codebug.zone
+smnggeophysics.com
 adoclib.com
 alwaysemmyhope.com
 answer-id.com
