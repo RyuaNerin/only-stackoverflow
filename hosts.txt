@@ -57,7 +57,7 @@ ichi.pro
 idaemon.net
 inputbox.tistory.com
 isolution.pro
-it-gundan.com
+it-gundan.*
 it-man.tistory.com
 it-reply.net
 it-swarm-ko.*
