@@ -50,7 +50,6 @@ cat <<EOF > only-stackoverflow.txt
 ! Expires: 1 days
 ! Version: ${NOW}
 ! 
-google.com#?#div[role="main"] div#search div[data-async-context] div[data-ved]:-abp-contains(/${REGEX}/)
-google.co.kr#?#div[role="main"] div#search div[data-async-context] div[data-ved]:-abp-contains(/${REGEX}/)
+google.*#?#div[role="main"] div#search div[data-async-context] div[data-hveid]:-abp-contains(/${REGEX}/)
 duckduckgo.com#?#div.result:-abp-contains(/${REGEX}/)
 EOF
