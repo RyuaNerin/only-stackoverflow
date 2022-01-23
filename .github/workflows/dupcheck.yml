@@ -1,0 +1,20 @@
+name: dupcheck
+
+on:
+  pull_request:
+    paths:
+      - 'build.bash'
+      - 'hosts.txt'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Check
+        run: bash dupcheck.bash
