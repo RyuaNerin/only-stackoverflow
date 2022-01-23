@@ -7,7 +7,7 @@ on:
       - 'hosts.txt'
 
 jobs:
-  build:
+  dupcheck:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
