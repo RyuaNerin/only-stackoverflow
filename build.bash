@@ -16,6 +16,7 @@ HOST_HEADER_LINES=$(grep -c '#.*' hosts.txt)
 HOST_HEADER=$(head -${HOST_HEADER_LINES} hosts.txt)
 HOST_LIST=$(tail -n +$((${HOST_HEADER_LINES}+1)) hosts.txt | sort -nf | uniq)
 REGEX_LIST=()
+UBL_LIST=()
 
 echo "${HOST_HEADER}" > hosts.txt
 
@@ -24,15 +25,25 @@ while IFS= read -r line; do
         line=${line,,}
         echo "$line" >> hosts.txt
 
-        re=$(echo "$line" | sed 's/\./\\./g; s/\?/./g; s/\-/\\-/g; s/\*/\\w\*/g')
+        line=$(echo "$line" | sed 's/[\r\n]//g;')
 
+        re=$(echo "$line" | sed 's/\./\\./g; s/\?/./g; s/\-/\\-/g; s/\*/\\w\*/g')
         REGEX_LIST+=($re)
+
+        if [[ $line == *'?'* ]] || [[ $line == *'*'* && $line != '*'* ]]; then
+            re="/^.*:\\/\\/$re\\//"
+        else
+            re="*://$line/*"
+        fi
+
+        UBL_LIST+=($re)
     fi
 done <<< "$HOST_LIST"
 
 function join { local IFS="$1"; shift; echo "$*"; }
 
 REGEX=$(join '|' ${REGEX_LIST[@]})
+UBL=$(join $'\n' ${UBL_LIST[@]})
 
 ##################################################
 
@@ -52,4 +63,12 @@ cat <<EOF > only-stackoverflow.txt
 ! 
 google.*#?#div[role="main"] div#search div[data-async-context] div[data-hveid]:-abp-contains(/${REGEX}/)
 duckduckgo.com#?#div.result:-abp-contains(/${REGEX}/)
+EOF
+
+cat <<EOF > ublacklist.txt
+# Please do not copy this file, Subscribe this filter by the link below
+# 이 파일을 복사하지 말고 아래 링크를 구독해주세요.
+# https://raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/ublacklist.txt
+#
+${UBL}
 EOF

@@ -25,6 +25,7 @@ jobs:
       - name: Commit
         run: |
           git add only-stackoverflow.txt
+          git add ublacklist.txt
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m "Build rules" -a
