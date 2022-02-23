@@ -30,7 +30,9 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -m "Build rules" -a
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Push to protected branch
+        uses: CasperWA/push-protected@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PUSH_TO_PROTECTED_BRANCH }}
+          branch: master
+          unprotect_reviews: true
