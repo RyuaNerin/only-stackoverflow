@@ -1,9 +1,13 @@
 name: dupcheck
 
 on:
+  push:
+    paths:
+      - 'dupcheck.bash'
+      - 'hosts.txt'
   pull_request:
     paths:
-      - 'build.bash'
+      - 'dupcheck.bash'
       - 'hosts.txt'
 
 jobs:
