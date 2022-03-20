@@ -56,6 +56,7 @@ iaxi.net
 ichi.pro
 idaemon.net
 inputbox.tistory.com
+intrepidgeeks.com
 isolution.pro
 it-gundan.*
 it-man.tistory.com
@@ -123,4 +124,3 @@ wepython.cc
 wikiqube.net
 xspdf.com
 202psj.tistory.com
-intrepidgeeks.com
