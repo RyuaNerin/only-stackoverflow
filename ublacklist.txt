@@ -54,6 +54,7 @@
 *://ichi.pro/*
 *://idaemon.net/*
 *://inputbox.tistory.com/*
+*://intrepidgeeks.com/*
 *://isolution.pro/*
 /^.*:\/\/it\-gundan\.\w*\//
 *://it-man.tistory.com/*
