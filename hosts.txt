@@ -1,7 +1,7 @@
 ####################################################################################################
 # 빌드할 때 재정렬하기 때문에 새로운 host는 마지막 줄에 추가해 주세요.
 # 와일드카드(*, ?) 문자를 사용할 수 있습니다.
-# This file will be rearranged on build. So please add the new host to the last line.
+# This file will be rearranged on build. So please add the new hosts after the last line.
 # You can use wildcard characters (* and ?).
 ####################################################################################################
 adoclib.com
