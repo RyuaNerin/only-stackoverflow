@@ -96,6 +96,7 @@
 *://recalll.co/*
 *://runebook.dev/*
 *://semicolonworld.com/*
+*://serveanswer.com/*
 *://smnggeophysics.com/*
 *://src-bin.com/*
 *://stackanswers.net/*

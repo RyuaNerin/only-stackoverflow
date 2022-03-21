@@ -98,6 +98,7 @@ randomtip.tistory.com
 recalll.co
 runebook.dev
 semicolonworld.com
+serveanswer.com
 smnggeophysics.com
 src-bin.com
 stackanswers.net
@@ -124,4 +125,3 @@ wepython.cc
 wikiqube.net
 xspdf.com
 202psj.tistory.com
-serveanswer.com
