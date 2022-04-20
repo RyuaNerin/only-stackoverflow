@@ -65,6 +65,7 @@ it-reply.net
 it-swarm-ko.*
 it-swarm.*
 it1352.com
+itbaoku.cn
 itboxs.tistory.com
 itectec.com
 itsource.tistory.com
@@ -127,4 +128,3 @@ wepython.cc
 wikiqube.net
 xspdf.com
 202psj.tistory.com
-itbaoku.cn

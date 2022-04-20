@@ -63,6 +63,7 @@
 /^.*:\/\/it\-swarm\-ko\.\w*\//
 /^.*:\/\/it\-swarm\.\w*\//
 *://it1352.com/*
+*://itbaoku.cn/*
 *://itboxs.tistory.com/*
 *://itectec.com/*
 *://itsource.tistory.com/*
