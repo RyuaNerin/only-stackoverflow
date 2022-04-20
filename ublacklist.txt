@@ -19,6 +19,7 @@
 *://buildwebhost.com/*
 *://c0debot.com/*
 *://c10106.tistory.com/*
+*://cache.one/*
 *://cainhuang.com/*
 *://cnpnote.tistory.com/*
 *://coddingbuddy.com/*
