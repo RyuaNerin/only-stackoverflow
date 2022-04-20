@@ -73,6 +73,7 @@ kejisen.com
 knews.vip
 ko.ojit.com
 krcodeblog.com
+localcoder.org
 lottogame.tistory.com
 lottoking.tistory.com
 manongdao.com
@@ -125,4 +126,3 @@ wepython.cc
 wikiqube.net
 xspdf.com
 202psj.tistory.com
-localcoder.org

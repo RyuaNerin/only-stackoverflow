@@ -71,6 +71,7 @@
 *://knews.vip/*
 *://ko.ojit.com/*
 *://krcodeblog.com/*
+*://localcoder.org/*
 *://lottogame.tistory.com/*
 *://lottoking.tistory.com/*
 *://manongdao.com/*
