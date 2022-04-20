@@ -11,7 +11,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.repository == 'RyuaNerin/only-stackoverflow'
+    if: github.repository == 'RyuaNerin/only-stackoverflow' && github.event.head_commit.author.email != 'action@github.com'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
