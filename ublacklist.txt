@@ -79,6 +79,7 @@
 *://manongdao.com/*
 *://melkia.dev/*
 *://messiahlebanon.org/*
+*://microeducate.tech/*
 *://minorman.tistory.com/*
 *://newbedev.com/*
 *://nicescript.tistory.com/*
