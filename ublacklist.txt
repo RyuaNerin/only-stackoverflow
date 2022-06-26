@@ -2,6 +2,7 @@
 # 이 파일을 복사하지 말고 아래 링크를 구독해주세요.
 # https://raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/ublacklist.txt
 #
+*://*.code-pager.com/*
 *://adoclib.com/*
 *://alwaysemmyhope.com/*
 *://answer-id.com/*
@@ -110,6 +111,7 @@
 *://semicolonworld.com/*
 *://serveanswer.com/*
 *://smnggeophysics.com/*
+*://solveforum.com/*
 *://src-bin.com/*
 *://stackanswers.net/*
 *://stackguides.com/*

@@ -4,6 +4,7 @@
 # This file will be rearranged on build. So please add the new hosts after the last line.
 # You can use wildcard characters (* and ?).
 ####################################################################################################
+*.code-pager.com
 adoclib.com
 alwaysemmyhope.com
 answer-id.com
@@ -112,6 +113,7 @@ runebook.dev
 semicolonworld.com
 serveanswer.com
 smnggeophysics.com
+solveforum.com
 src-bin.com
 stackanswers.net
 stackguides.com
@@ -139,5 +141,3 @@ wikiqube.net
 xspdf.com
 yingqusp.com
 202psj.tistory.com
-solveforum.com
-*.code-pager.com
