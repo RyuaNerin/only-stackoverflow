@@ -122,6 +122,7 @@ stackovergo.com
 stackovernet.*
 stackoverrun.com
 svcministry.org
+techhelpnotes.com
 thefunky-monkey.com
 thetopsites.net
 thinbug.com
@@ -141,4 +142,3 @@ wikiqube.net
 xspdf.com
 yingqusp.com
 202psj.tistory.com
-techhelpnotes.com

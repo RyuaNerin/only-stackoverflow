@@ -120,6 +120,7 @@
 /^.*:\/\/stackovernet\.\w*\//
 *://stackoverrun.com/*
 *://svcministry.org/*
+*://techhelpnotes.com/*
 *://thefunky-monkey.com/*
 *://thetopsites.net/*
 *://thinbug.com/*
