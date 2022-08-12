@@ -79,6 +79,7 @@
 *://javaer101.com/*
 *://javafixing.com/*
 *://kejisen.com/*
+*://kiwix.ounapuu.ee/*
 *://knews.vip/*
 *://ko.ojit.com/*
 *://krcodeblog.com/*
