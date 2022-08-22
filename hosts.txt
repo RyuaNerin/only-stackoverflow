@@ -11,6 +11,7 @@ androiderrors.com
 answer-id.com
 answeright.com
 antarblog.com
+anycodings.com
 ask.roboflow.ai
 ask.xiaolee.net
 askdev.*
@@ -144,4 +145,3 @@ wikiqube.net
 xspdf.com
 yingqusp.com
 202psj.tistory.com
-anycodings.com

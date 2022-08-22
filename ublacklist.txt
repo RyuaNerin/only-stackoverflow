@@ -9,6 +9,7 @@
 *://answer-id.com/*
 *://answeright.com/*
 *://antarblog.com/*
+*://anycodings.com/*
 *://ask.roboflow.ai/*
 *://ask.xiaolee.net/*
 /^.*:\/\/askdev\.\w*\//
