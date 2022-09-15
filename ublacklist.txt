@@ -65,7 +65,9 @@
 *://iaxi.net/*
 *://ichi.pro/*
 *://idaemon.net/*
+*://idqna.madreview.net/*
 *://inputbox.tistory.com/*
+*://intellipaat.com/*
 *://intrepidgeeks.com/*
 *://isolution.pro/*
 /^.*:\/\/it\-gundan\.\w*\//
@@ -83,6 +85,8 @@
 *://javacodexamples.com/*
 *://javaer101.com/*
 *://javafixing.com/*
+*://jike.in/*
+*://jonic.cn/*
 *://kejisen.com/*
 *://kiwix.ounapuu.ee/*
 *://knews.vip/*
@@ -110,10 +114,12 @@
 *://python2.net/*
 *://python5.com/*
 *://pythonq.com/*
+*://qa.overstack.in/*
 /^.*:\/\/qastack\.\w*\//
 *://radiobox.tistory.com/*
 *://randomtip.tistory.com/*
 *://recalll.co/*
+*://rotadev.com/*
 *://runebook.dev/*
 *://semicolonworld.com/*
 *://serveanswer.com/*
@@ -145,6 +151,7 @@
 *://wekeepcoding.com/*
 *://wepython.cc/*
 *://wikiqube.net/*
+*://www.faqcode4u.com/*
 *://xspdf.com/*
 *://yingqusp.com/*
 *://202psj.tistory.com/*

@@ -67,7 +67,9 @@ i-harness.com
 iaxi.net
 ichi.pro
 idaemon.net
+idqna.madreview.net
 inputbox.tistory.com
+intellipaat.com
 intrepidgeeks.com
 isolution.pro
 it-gundan.*
@@ -85,6 +87,8 @@ java2020.com
 javacodexamples.com
 javaer101.com
 javafixing.com
+jike.in
+jonic.cn
 kejisen.com
 kiwix.ounapuu.ee
 knews.vip
@@ -112,10 +116,12 @@ py4u.net
 python2.net
 python5.com
 pythonq.com
+qa.overstack.in
 qastack.*
 radiobox.tistory.com
 randomtip.tistory.com
 recalll.co
+rotadev.com
 runebook.dev
 semicolonworld.com
 serveanswer.com
@@ -147,13 +153,7 @@ webdevdesigner.com
 wekeepcoding.com
 wepython.cc
 wikiqube.net
+www.faqcode4u.com
 xspdf.com
 yingqusp.com
 202psj.tistory.com
-intellipaat.com
-rotadev.com
-idqna.madreview.net
-jike.in
-www.faqcode4u.com
-qa.overstack.in
-jonic.cn
