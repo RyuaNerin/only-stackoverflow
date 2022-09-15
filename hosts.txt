@@ -8,10 +8,12 @@
 adoclib.com
 alwaysemmyhope.com
 androiderrors.com
+angularfixing.com
 answer-id.com
 answeright.com
 antarblog.com
 anycodings.com
+appsloveworld.com
 ask.roboflow.ai
 ask.xiaolee.net
 askdev.*
@@ -49,6 +51,7 @@ data-sc.net
 debugcn.com
 develop-bugs.com
 developreference.com
+dtuto.com
 e-learn.cn
 example-code.com
 exchangetuts.com
@@ -77,6 +80,7 @@ itbaoku.cn
 itboxs.tistory.com
 itectec.com
 itsource.tistory.com
+ittutorialpoint.com
 java2020.com
 javacodexamples.com
 javaer101.com
@@ -116,6 +120,7 @@ runebook.dev
 semicolonworld.com
 serveanswer.com
 smnggeophysics.com
+so.muouseo.com
 solveforum.com
 src-bin.com
 stackanswers.net
@@ -145,8 +150,3 @@ wikiqube.net
 xspdf.com
 yingqusp.com
 202psj.tistory.com
-dtuto.com
-appsloveworld.com
-ittutorialpoint.com
-angularfixing.com
-so.muouseo.com
