@@ -38,6 +38,7 @@ coder-question-ko.com
 coder-question.com
 coder-solution.com
 coder.work
+coderbridge.com
 coderedirect.com
 coderoad.ru
 codestyle.tistory.com
@@ -157,4 +158,3 @@ www.faqcode4u.com
 xspdf.com
 yingqusp.com
 202psj.tistory.com
-coderbridge.com

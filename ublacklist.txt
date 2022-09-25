@@ -36,6 +36,7 @@
 *://coder-question.com/*
 *://coder-solution.com/*
 *://coder.work/*
+*://coderbridge.com/*
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://codestyle.tistory.com/*
