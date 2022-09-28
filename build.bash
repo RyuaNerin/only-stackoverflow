@@ -58,11 +58,11 @@ cat <<EOF > only-stackoverflow.txt
 ! Description: Hide copy of stackoverflow from google and duckduckgo search results. (e.g. stackoverrun)
 ! Homepage: https://github.com/RyuaNerin/only-stackoverflow
 ! License: https://github.com/RyuaNerin/only-stackoverflow#license
-! Expires: 1 days
+! Expires: 1 hour
 ! Version: ${NOW}
 ! 
-google.*#?#div[role="main"] div#search div[data-async-context] div[data-hveid]:-abp-contains(/${REGEX}/)
-duckduckgo.com#?#div.result:-abp-contains(/${REGEX}/)
+google.*#?#div[role="main"] div#search div[data-async-context] div.g[data-hveid]:-abp-contains(/${REGEX}/)
+duckduckgo.com#?#div.results article:-abp-contains(/${REGEX}/)
 EOF
 
 cat <<EOF > ublacklist.txt
