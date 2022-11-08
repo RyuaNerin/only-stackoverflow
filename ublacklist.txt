@@ -79,6 +79,7 @@
 *://it1352.com/*
 *://itbaoku.cn/*
 *://itboxs.tistory.com/*
+*://itecnote.com/*
 *://itectec.com/*
 *://itsource.tistory.com/*
 *://ittutorialpoint.com/*

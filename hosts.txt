@@ -81,6 +81,7 @@ it-swarm.*
 it1352.com
 itbaoku.cn
 itboxs.tistory.com
+itecnote.com
 itectec.com
 itsource.tistory.com
 ittutorialpoint.com
@@ -158,4 +159,3 @@ www.faqcode4u.com
 xspdf.com
 yingqusp.com
 202psj.tistory.com
-itecnote.com
