@@ -63,6 +63,7 @@ ghcc.net
 gitmemory.com
 gotxt.net
 hiengo.com
+holadevs.com
 hot-time.tistory.com
 i-harness.com
 iaxi.net
@@ -159,4 +160,3 @@ www.faqcode4u.com
 xspdf.com
 yingqusp.com
 202psj.tistory.com
-holadevs.com

@@ -61,6 +61,7 @@
 *://gitmemory.com/*
 *://gotxt.net/*
 *://hiengo.com/*
+*://holadevs.com/*
 *://hot-time.tistory.com/*
 *://i-harness.com/*
 *://iaxi.net/*
