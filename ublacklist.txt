@@ -32,6 +32,7 @@
 *://code-examples.net/*
 *://codebug.zone/*
 *://codehunter.cc/*
+*://codeproject.com/*
 *://coder-question-ko.com/*
 *://coder-question.com/*
 *://coder-solution.com/*
