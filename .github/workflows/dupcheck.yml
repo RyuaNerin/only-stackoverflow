@@ -1,14 +1,6 @@
 name: dupcheck
 
-on:
-  push:
-    paths:
-      - 'dupcheck.bash'
-      - 'hosts.txt'
-  pull_request:
-    paths:
-      - 'dupcheck.bash'
-      - 'hosts.txt'
+on: [ push, pull_request ]
 
 jobs:
   dupcheck:
