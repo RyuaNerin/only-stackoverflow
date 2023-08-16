@@ -15,7 +15,7 @@
         - [`build.bash`](build.bash)
         - [`hosts.txt`](hosts.txt)
 
-## [only-stackoverflow 필터 구독하기](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
+## only-stackoverflow 필터 구독하기
 
 - **테스트된 플러그인**
     - **Adguard**
@@ -26,6 +26,25 @@
 
 - Adblock Plus, AdBlock 사용시 주의사항
     - (Adblock Plus) "허용되는 광고"를 허용하거나 (AdBlock) "허용할만한 광고" 필터를 구독하면 google.com에서 모든 필터가 적용되지 않습니다. 이를 해제해야 합니다.
+
+### Adblock Plus Subscription 링크를 통한 구독 (권장)
+
+[링크](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)를 눌러 항상 최신의 구독 정보를 유지하세요.
+
+### 사용자 정의 필터에 직접 추가하여 사용
+<details>
+<summary>AdGuard 사용 예시</summary>
+
+![Manual Usage on AdGuard](manual-usage.mov)
+</details>
+
+
+위 예시 속 영상처럼 아래 링크를 직접 추가해서 사용해보세요. 최신 변경사항이 반영되지 않을 수도 있어서 위 방법이 작동하지 않는 경우에만 사용하는 것을 권해드려요.
+
+```
+https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt
+```
+
 
 ## [차단하는 사이트 목록](hosts.txt)
 
