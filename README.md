@@ -18,7 +18,7 @@
 ## only-stackoverflow 필터 구독하기
 
 - **테스트된 플러그인**
-    - **Adguard**
+    - **AdGuard**
     - **uBlock Origin**
     - **Personal Blocklist(not by Google)**
     - **Adblock Plus**
@@ -44,7 +44,6 @@
 ```
 https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt
 ```
-
 
 ## [차단하는 사이트 목록](hosts.txt)
 
