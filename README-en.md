@@ -2,7 +2,7 @@
 
 [![Subscribe filter](https://img.shields.io/badge/Subscribe%20Filter-Adblock%20Plus-brightgreen?logo=adblockplus)](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
 
-![banner](banner.png)
+![banner](docs/banner.png)
 
 - [README (한국어)](README.md)
 
@@ -31,17 +31,18 @@
 
 [Click me](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow) to use filters and subscribe the latest changes.
 
-
 ### Manual
+
 <details>
 <summary>Tutorials on AdGuard</summary>
 
-![Manual Usage on AdGuard](manual-usage.mov)
+<video src="https://raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/docs/manual-usage.mp4" controls="controls" style="max-width: 70%">
+</video>
 </details>
 
 Like the video in the example above, please add the link below and use it. The latest changes may not be reflected, so We recommend using them only if the above does not work.
 
-```
+```txt
 https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt
 ```
 

@@ -2,7 +2,7 @@
 
 [![필터 구독하기](https://img.shields.io/badge/Subscribe%20Filter-Adblock%20Plus-brightgreen?logo=adblockplus)](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)
 
-![banner](banner.png)
+![banner](docs/banner.png)
 
 - [README (english)](README-en.md)
 
@@ -32,16 +32,17 @@
 [링크](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow)를 눌러 항상 최신의 구독 정보를 유지하세요.
 
 ### 사용자 정의 필터에 직접 추가하여 사용
+
 <details>
 <summary>AdGuard 사용 예시</summary>
 
-![Manual Usage on AdGuard](manual-usage.mov)
+<video src="https://raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/docs/manual-usage.mp4" controls="controls" style="max-width: 70%">
+</video>
 </details>
-
 
 위 예시 속 영상처럼 아래 링크를 직접 추가해서 사용해보세요. 최신 변경사항이 반영되지 않을 수도 있어서 위 방법이 작동하지 않는 경우에만 사용하는 것을 권해드려요.
 
-```
+```txt
 https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt
 ```
 
