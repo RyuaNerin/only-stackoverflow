@@ -27,6 +27,24 @@
 - Precautions
     - If you allow "acceptable ads" in Adblock Plus or subscribe "acceptable ads" filter, filters will not apply on google. You need to turn it off in order to use only-stackoverflow filter.
 
+### Adblock Plus Subscription Link (Recommend)
+
+[Click me](https://subscribe.adblockplus.org/?location=https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt&title=only-stackoverflow) to use filters and subscribe the latest changes.
+
+
+### Manual
+<details>
+<summary>Tutorials on AdGuard</summary>
+
+![Manual Usage on AdGuard](manual-usage.mov)
+</details>
+
+Like the video in the example above, please add the link below and use it. The latest changes may not be reflected, so We recommend using them only if the above does not work.
+
+```
+https://github.com/RyuaNerin/only-stackoverflow/raw/master/only-stackoverflow.txt
+```
+
 ## [Blocked sites list](hosts.txt)
 
 ## License
