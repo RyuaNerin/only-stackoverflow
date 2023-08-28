@@ -36,8 +36,8 @@
 <details>
 <summary>AdGuard 사용 예시</summary>
 
-<video src="https://raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/docs/manual-usage.mp4" controls="controls" style="max-width: 70%">
-</video>
+https://github.com/RyuaNerin/only-stackoverflow/assets/6766851/ddb8c013-8c7c-4773-ad0a-af27bf46cad8
+
 </details>
 
 위 예시 속 영상처럼 아래 링크를 직접 추가해서 사용해보세요. 최신 변경사항이 반영되지 않을 수도 있어서 위 방법이 작동하지 않는 경우에만 사용하는 것을 권해드려요.
