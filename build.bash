@@ -61,7 +61,7 @@ cat <<EOF > only-stackoverflow.txt
 ! Expires: 1 hour
 ! Version: ${NOW}
 ! 
-google.*#?#div[role="main"] div#search div[data-async-context] div.g[data-hveid]:-abp-contains(/${REGEX}/)
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div.g[data-hveid]:-abp-contains(/${REGEX}/)
 duckduckgo.com#?#div.results article:-abp-contains(/${REGEX}/)
 EOF
 
