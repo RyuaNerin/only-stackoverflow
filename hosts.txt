@@ -5,6 +5,7 @@
 # You can use wildcard characters (* and ?).
 ####################################################################################################
 *.code-pager.com
+202psj.tistory.com
 adoclib.com
 alwaysemmyhope.com
 androiderrors.com
@@ -160,4 +161,3 @@ wikiqube.net
 www.faqcode4u.com
 xspdf.com
 yingqusp.com
-202psj.tistory.com

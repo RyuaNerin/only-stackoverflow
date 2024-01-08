@@ -3,6 +3,7 @@
 # https://raw.githubusercontent.com/RyuaNerin/only-stackoverflow/master/ublacklist.txt
 #
 *://*.code-pager.com/*
+*://202psj.tistory.com/*
 *://adoclib.com/*
 *://alwaysemmyhope.com/*
 *://androiderrors.com/*
@@ -14,7 +15,6 @@
 *://appsloveworld.com/*
 *://ask.roboflow.ai/*
 *://ask.xiaolee.net/*
-/^.*:\/\/askdev\.\w*\//
 *://askvoprosy.com/*
 *://auespy.com/*
 *://big-blog.tistory.com/*
@@ -73,11 +73,8 @@
 *://intellipaat.com/*
 *://intrepidgeeks.com/*
 *://isolution.pro/*
-/^.*:\/\/it\-gundan\.\w*\//
 *://it-man.tistory.com/*
 *://it-reply.net/*
-/^.*:\/\/it\-swarm\-ko\.\w*\//
-/^.*:\/\/it\-swarm\.\w*\//
 *://it1352.com/*
 *://itbaoku.cn/*
 *://itboxs.tistory.com/*
@@ -119,7 +116,6 @@
 *://python5.com/*
 *://pythonq.com/*
 *://qa.overstack.in/*
-/^.*:\/\/qastack\.\w*\//
 *://radiobox.tistory.com/*
 *://randomtip.tistory.com/*
 *://recalll.co/*
@@ -135,7 +131,6 @@
 *://stackguides.com/*
 *://stackoom.com/*
 *://stackovergo.com/*
-/^.*:\/\/stackovernet\.\w*\//
 *://stackoverrun.com/*
 *://svcministry.org/*
 *://techhelpnotes.com/*
@@ -158,4 +153,4 @@
 *://www.faqcode4u.com/*
 *://xspdf.com/*
 *://yingqusp.com/*
-*://202psj.tistory.com/*
+/^.*:\/\/(?:askdev\.\w+|it\-(?:gundan\.\w+|swarm(?:\-ko\.\w+|\.\w+))|qastack\.\w+|stackovernet\.\w+)\//
