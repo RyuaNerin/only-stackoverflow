@@ -14,4 +14,4 @@ jobs:
           fetch-depth: 0
 
       - name: Check
-        run: bash dupcheck.bash
+        run: bash scripts/dupcheck.bash
