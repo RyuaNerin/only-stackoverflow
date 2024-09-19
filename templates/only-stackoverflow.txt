@@ -11,5 +11,5 @@
 ! Expires: 1 hour
 ! Version: ${NOW}
 ! 
-google.*#?#:is(div#search, div#botstuff) div[data-async-context] div.g[data-hveid]:-abp-contains(/${REGEX}/)
+google.*#?#:is(div#search, div#botstuff) div[data-async-context] div.g[data-ved]:-abp-contains(/${REGEX}/)
 duckduckgo.com#?#div.results article:-abp-contains(/${REGEX}/)
